@@ -31,3 +31,7 @@ df=pd.read_csv('C:\Users\danga\OneDrive\Desktop/weatherAUS.csv')
 data='C:\Users\danga\OneDrive\Desktop\weatherAUS.csv'
 df=pd.read_csv(data)
 #D:\self project\archive (1)
+
+
+df=pd.read_csv('D:\self project\archive (1)\weatherAUS.csv')
+df.head(10)
