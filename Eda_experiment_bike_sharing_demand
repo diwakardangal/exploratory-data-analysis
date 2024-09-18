@@ -26,3 +26,8 @@ warnings.filterwarnings('ignore')
 
 df=pd.read_csv('C:\Users\danga\OneDrive\Desktop/weatherAUS.csv')
 #D:\self project\archive (1)
+
+
+data='C:\Users\danga\OneDrive\Desktop\weatherAUS.csv'
+df=pd.read_csv(data)
+#D:\self project\archive (1)
